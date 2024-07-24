@@ -5,7 +5,7 @@
 SunRiseNetwork Minecraft sunucularının kurucusu ve yöneticisiyim. Profilimi ziyaret ettiğiniz için teşekkürler.
 
 Discord sunucumuza gelmeyi unutmayın !
-[Discord Sunucumuz]([http://example.com](https://discord.gg/ep7rTAFWmm))
+[Discord Sunucumuz](http://example.com](https://discord.gg/ep7rTAFWmm)
 
 
 
