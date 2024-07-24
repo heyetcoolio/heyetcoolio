@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there 👋, ben Coolio
+#### SunRiseNetwork Kurucusuyum
+![SunRiseNetwork Kurucusuyum](https://cdn.discordapp.com/attachments/1256666113136398488/1260995118715109436/banner-333568-1719562997.gif?ex=66a1d378&is=66a081f8&hm=acb48f15864309db0e0dbd93f49601d6ab8fb6bd61d71a0395f70eb62e0c0d1c&)
 
-<!--
-**heyetcoolio/heyetcoolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Küçüklüğümden bu yana bilgisayara ve yazılıma meraklıyım. Arduino ile kodlamaya başladım. Günümüzde minecraft sunucumla uğraşıyorum.
 
-Here are some ideas to get you started:
+Skills: VUE JS / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
