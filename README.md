@@ -1,6 +1,6 @@
 ### Merhabalar 👋, ben Coolio
 #### SunRiseNetwork Kurucusuyum
-![SunRiseNetwork Kurucusuyum]([https://cdn.discordapp.com/attachments/1256666113136398488/1260995118715109436/banner-333568-1719562997.gif?ex=66a1d378&is=66a081f8&hm=acb48f15864309db0e0dbd93f49601d6ab8fb6bd61d71a0395f70eb62e0c0d1c&)
+https://cdn.discordapp.com/attachments/1257696545373946006/1282278521695244320/oyna.sunrisenw.com.tr.gif?ex=6739bdef&is=67386c6f&hm=35a9e60a54033329a732ca07702dc519a2d9f04cff1e2a6a453ba77941d3d014&
 
 SunRiseNetwork Minecraft sunucularının kurucusu ve yöneticisiyim. Profilimi ziyaret ettiğiniz için teşekkürler.
 
