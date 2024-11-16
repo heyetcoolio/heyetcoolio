@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba ! Ben Coolio</h1>
-<h3 align="center">Merhaba, ben Coolio. Küçüklüğümden bu yana bilgisayara ve yazılıma meraklıyım. Arduino ile kodlamaya başladım. Günümüzde minecraft sunucumla uğraşıyorum.</h3>
+<h3 align="center">Küçüklüğümden beri teknolojik cihazlara ve yazılıma meraklıyım. Arduino ile yazılıma başladım ve şuan daha çok JavaScript alanında devam ediyorum. SunRiseNetwork minecraft sunucularının kurucusuyum.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
