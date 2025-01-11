@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba ! Ben Coolio</h1>
-<h3 align="center">Küçüklüğümden beri teknolojik cihazlara ve yazılıma meraklıyım. Arduino ile yazılıma başladım ve şuan daha çok JavaScript alanında devam ediyorum. SunRiseNetwork minecraft sunucularının kurucusuyum.</h3>
+<h3 align="center">Küçüklüğümden beri teknolojik cihazlara ve yazılıma meraklıyım. Arduino ile yazılıma başladım ve şuan daha çok JavaScript alanında devam ediyorum. DedeNetwork minecraft sunucularının kurucusuyum.</h3>
 
 <h3 align="left">Sosyal Medya Hesaplarım</h3>
 <p align="left">
