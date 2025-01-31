@@ -5,7 +5,7 @@
 <p align="left">
 <a href="https://dev.to/heyetcoolio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="heyetcoolio" height="30" width="40" /></a>
 <a href="https://twitter.com/coolio01_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="coolio01_" height="30" width="40" /></a>
-<a href="https://instagram.com/srnetworkk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srnetworkk" height="30" width="40" /></a>
+<a href="https://instagram.com/dedenetworkofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srnetworkk" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/coolio01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="coolio01" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/Y2hTHW6sVd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/Y2hTHW6sVd" height="30" width="40" /></a>
 </p>
